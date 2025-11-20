@@ -18,7 +18,7 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1763613549,
+      "updated": 1763613919,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -90,17 +90,17 @@
       }
     },
     {
-      "id": "item-d8bbcc02-6351-44e1-bbf4-b63a33de1fb2",
+      "id": "item-970c30fe-8591-4494-86bb-baeb0f187057",
       "indent": 0,
-      "location": "pages/item-d8bbcc02-6351-44e1-bbf4-b63a33de1fb2/index.html",
+      "location": "pages/item-970c30fe-8591-4494-86bb-baeb0f187057/index.html",
       "slug": "page",
       "order": 2,
       "parent": null,
       "title": "Page",
-      "description": "\n\nCozyNest - Handcrafted Fashion &#38; Vintage Decor\n\n\n\n\n\n\n\n\n\n    \n      \n        \n      \n\n\n      \n        \n          \n            close\n          \n        \n\n\n        \n          \n            Home\n   ",
+      "description": "\n",
       "metadata": {
-        "created": 1763613306,
-        "updated": 1763613549,
+        "created": 1763613892,
+        "updated": 1763613919,
         "images": {},
         "videos": {},
         "theme": {
@@ -113,7 +113,7 @@
         "published": true,
         "hideInMenu": false,
         "locked": false,
-        "readtime": 3
+        "readtime": 1
       }
     }
   ]
